@@ -13,3 +13,9 @@ Start the dev server,
 ```bash
 $ yarn start
 ```
+
+编译发布
+
+```$bash
+$ yarn build
+```
